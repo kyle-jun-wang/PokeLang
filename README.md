@@ -50,7 +50,7 @@ To end : You gained EXP!
 ## Hello World Example
 Pokemon Trainer HelloWorld would like to battle!
   
-  Enemy Trainer says "Hello World"!
+> Enemy Trainer says "Hello World"!
   
   
 ## FizzBuzz Example
