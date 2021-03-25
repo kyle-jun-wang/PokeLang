@@ -49,13 +49,31 @@ Pokemon Trainer HelloWorld would like to battle!
 ## FizzBuzz Example
 Pokemon Trainer FizzBuzz would like to battle!
 
-  Go, Pikachu!
+>  Go, Pikachu!
+>  Go, Bulbasaur!
+>  Go, Squirtle!
+>  Go, Charmander!
+>  Go, Pichu!
+>  Go, Raichu!
   
-  Go, Squirtle!
+>  Pikachu used Thunderbolt!                           #set to one
+>  Bulbasaur used Cut!                                 #set to three
+>  Squirtale used scald!                               #set to five
+>  Charmander used MagmaStorm!                         #set to one
+>  Pichu used Voltswitch!                              #set to zero
+>  Raichu used Super Voltswitch!                       #set to 45
   
-  Pikachu used cut!
+> Can't get away safely!  
+>> Oh no, Pikachu was put asleep by Raichu!
+>>> Got away safely!
+>>> Oh no, Pikachu missed Bulbasaur and Pikachu missed Squirtle!  
+>>>> Enemy Trainer says "FizzBuzz"           
+>>>  Charmander was supereffective against Pikachu!      #add one to Pikachu
   
-  Squirtale used tackle!
+  
+  
+  
+  
   
   
   
