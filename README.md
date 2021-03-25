@@ -42,7 +42,7 @@ Stop while-loop : Got away safely!
 
 
 ### End function
-To end : You gained EXP!
+To end : Smell ya later!
 
 
 ## Hello World Example
@@ -93,7 +93,7 @@ Pokemon Trainer FizzBuzz would like to battle!
 >>> 
 >>  Charmander was supereffective against Pikachu!      #add one to Pikachu
 >>  
-You gained EXP!
+Smell ya later!
   
   
   
