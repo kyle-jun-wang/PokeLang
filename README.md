@@ -38,6 +38,15 @@ Greater than : <pokemon1> was poisoned by <pokemon2>!
 Less than : <pokemon1> was paralyzed by <pokemon2>!
 
 
+### While Loop
+Start while-loop : Can't get away safely!
+Stop while-loop : Got away safely!
+
+
+### End function
+To end : You gain experience!
+
+
 ## Hello World Example
 Pokemon Trainer HelloWorld would like to battle!
   
