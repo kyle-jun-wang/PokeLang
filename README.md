@@ -4,14 +4,12 @@ PokeLang is a programming language based on the text dialogue displayed during a
 ## Basic Syntax
 
 
-Pokemon Trainer <Function Name> would like to battle!
-  
-<trainer name> sent out <pokemon name>
-  
-"Go, <name>!"
-  
-Pikachu used "hello world"!
-Pikachu used Thunderbolt! : Pikachu is assigned a value of 1 (length of thunderbold % 10)
+### Declaring Variable
+
+<pokemon> used <move name>
+ 
+Assigned value is equal to <move name> % 10. To created number higher than 10, add a space between each digit. 
+(e.g. "Pikachu used Volt Tackle" assigne the value 46 to the variable Pikachu)
 
 
 ### Operators
