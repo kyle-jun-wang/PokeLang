@@ -6,7 +6,7 @@ PokeLang is a programming language based on the text dialogue displayed during a
 
 ### Declaring Variable
 
-<pokemon> used <move name>
+(Pokemon) used (Move Name)
  
 Assigned value is equal to <move name> % 10. To created number higher than 10, add a space between each digit. 
 (e.g. "Pikachu used Volt Tackle" assigne the value 46 to the variable Pikachu)
@@ -27,13 +27,13 @@ Modular : It missed!
 ### Boolean
 If statements start with, "Oh no,"
 
-Equals to : <pokemon1> was put asleep by <pokemon2>!
+Equals to : (pokemon1) was put asleep by (pokemon2)!
   
-Not Equals to : <pokemon1> was confused by <pokemon2>!
+Not Equals to : (pokemon1) was confused by (pokemon2)!
   
-Greater than : <pokemon1> was poisoned by <pokemon2>!
+Greater than : (pokemon1) was poisoned by (pokemon2)!
   
-Less than : <pokemon1> was paralyzed by <pokemon2>!
+Less than : (pokemon1) was paralyzed by (pokemon2)!
 
 
 ### While Loop
