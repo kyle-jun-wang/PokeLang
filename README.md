@@ -40,35 +40,52 @@ Less than : <pokemon1> was paralyzed by <pokemon2>!
 
 ## Hello World Example
 Pokemon Trainer HelloWorld would like to battle!
-
-  Go, Pikachu! 
   
-  Pikachu used "Hello World"!
+  Enemy Trainer says "Hello World"!
   
   
 ## FizzBuzz Example
 Pokemon Trainer FizzBuzz would like to battle!
 
 >  Go, Pikachu!
+>  
 >  Go, Bulbasaur!
+>  
 >  Go, Squirtle!
+>  
 >  Go, Charmander!
+>  
 >  Go, Pichu!
+>  
 >  Go, Raichu!
+>  
+  
   
 >  Pikachu used Thunderbolt!                           #set to one
+>  
 >  Bulbasaur used Cut!                                 #set to three
+>  
 >  Squirtale used scald!                               #set to five
+>  
 >  Charmander used MagmaStorm!                         #set to one
+>  
 >  Pichu used Voltswitch!                              #set to zero
+>  
 >  Raichu used Super Voltswitch!                       #set to 45
   
+  
 > Can't get away safely!  
+> 
 >> Oh no, Pikachu was put asleep by Raichu!
+>> 
 >>> Got away safely!
+>>> 
 >>> Oh no, Pikachu missed Bulbasaur and Pikachu missed Squirtle!  
+>>> 
 >>>> Enemy Trainer says "FizzBuzz"           
+>>>> 
 >>>  Charmander was supereffective against Pikachu!      #add one to Pikachu
+>>>  
   
   
   
