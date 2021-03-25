@@ -89,12 +89,12 @@ Pokemon Trainer FizzBuzz would like to battle!
 >> 
 >>> Got away safely!
 >>> 
->>> Oh no, Pikachu missed Bulbasaur and Pikachu missed Squirtle!  
+>> Oh no, Pikachu missed Bulbasaur and Pikachu missed Squirtle!  
+>> 
+>>> Enemy Trainer says "FizzBuzz"           
 >>> 
->>>> Enemy Trainer says "FizzBuzz"           
->>>> 
->>>  Charmander was supereffective against Pikachu!      #add one to Pikachu
->>>  
+>>  Charmander was supereffective against Pikachu!      #add one to Pikachu
+>>  
   
   
   
