@@ -25,7 +25,8 @@ Modular : It missed!
 
 
 ### Boolean
-If statements start with, "Oh no,"
+If statements start with "Oh no,"
+Else statements start with "huh?"
 
 Equals to : (pokemon1) was put asleep by (pokemon2)!
   
